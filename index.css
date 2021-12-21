@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;background-color: #67E667;
+}
+.gem  {
+weight: 50px; height: 50px;}
+.gem2 { height: 300px;
+ weight:500px;
+ }
+.a {font-size: 30px;
+text-align: center;
+background-color: #67E667
+ ; color: #FF7373;
+}
+header {background-color: #FF7373;}
+ footer{
+     background-color:#FF7373 ;
+ }   
